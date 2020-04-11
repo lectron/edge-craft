@@ -1,4 +1,4 @@
-# edge-pass
+# edge-craft
 BungeeCord plugins that shows Minecraft Bukkit server motd and number of players as if ping_passthrough is on
 
 # Inspirations
