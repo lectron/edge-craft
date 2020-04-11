@@ -4,7 +4,7 @@ BungeeCord plugins that shows Minecraft Bukkit server motd and number of players
 # Inspirations
 - RedisBungee
 
-#This plugin:
+# This plugin:
 - Works well with multi-proxy, one spigot server setup
 - does show cached total number of players by counting the number of players in the targeted default Spigot server
 - does show MOTD cached from the Spigot server in the targeted default Spigot server
