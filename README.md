@@ -1,5 +1,5 @@
 # edge-craft
-BungeeCord plugins that shows Minecraft Bukkit server motd and number of players as if ping_passthrough is on
+BungeeCord plugins that shows Minecraft Spigot server motd and number of players as if ping_passthrough is on, and some other edge optimization to increase reduce perception of latency
 
 # Inspirations
 - RedisBungee
